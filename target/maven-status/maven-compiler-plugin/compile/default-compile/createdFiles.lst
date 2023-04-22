@@ -1,0 +1,15 @@
+com\diploma\model\Session$SessionBuilder.class
+com\diploma\model\Session.class
+com\diploma\subcommands\ListSnapshotsCommand.class
+com\diploma\service\MapperImpl.class
+com\diploma\model\dto\SessionDto$SessionDtoBuilder.class
+com\diploma\subcommands\ListSessionsCommand.class
+com\diploma\subcommands\InitSessionCommand.class
+com\diploma\subcommands\LoadSnapshotCommand.class
+com\diploma\model\dto\SessionDto.class
+com\diploma\model\dto\SnapshotDto$SnapshotDtoBuilder.class
+com\diploma\model\dto\SnapshotDto.class
+com\diploma\MasterCommand.class
+com\diploma\model\Snapshot.class
+com\diploma\model\Snapshot$SnapshotBuilder.class
+com\diploma\subcommands\CreateSnapshotCommand.class
